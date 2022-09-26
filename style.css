@@ -197,14 +197,14 @@ footer {
 
   .headerandtext p {
     position: relative;
-    margin-left: auto;
+    margin-left: 1.4rem;
     margin-top: 80.3rem;
     width: 27.5rem;
     height: 26.2rem;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 2.4rem;
+    font-size: 1.6rem;
     line-height: 2.0rem;
     color: #FFFFFF;
   }
