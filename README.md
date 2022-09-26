@@ -1,12 +1,12 @@
-# Desafio Rocketseat - criando uma tela responsiva
+# Rocketseat Challenge - creating a responsive canvas
 
-Criando um aplicativo com uma tela responsiva.
+Creating an app with a responsive screen.
 
-## Técnicas utilizadas no projeto:
+## Techniques used in the project:
 
-- uso de propriedades no css 
+- use of properties in css
 - display: flex
 - display: grid
-- media (para a tela mudar de acordo com a largura) 
+- media (for the screen to change according to the width)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-carvalho-programador-2b9313249/)
